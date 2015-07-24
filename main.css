@@ -1,0 +1,97 @@
+#header {
+  width: 97.5%;
+  padding: 1em;
+  border: dotted black 1px;
+  overflow: auto;
+}
+
+#bodyDiv {
+  width: 98.5%;
+  overflow: auto;
+  border: dotted black 1px;
+  margin-top: 20px;
+  padding-left: 1em;
+}
+/*
+#bodyRow {
+  border: dotted black 1px;
+  padding-left: 20px;
+  padding-right: 20px;
+}*/
+
+#col4 {
+  border: dotted black 1px;
+  float: left;
+  height: 175px;
+  width: 32%;
+
+}
+
+#bodyContainerRight {
+  border: dotted black 1px;
+  width: 64%;
+  height: 350px;
+  float: right;
+  margin: 0 2em 2em 0;
+  padding-top: .5em;
+
+}
+
+#insideRowCol-8 {
+  border: dotted black 1px;
+  float: right;
+  margin: 1em 2em 1em 1em;
+  height: 80px;
+  width: 90%;
+  padding-left: 1em;
+  padding-top: 1em;
+  overflow: auto;
+}
+
+.smallBox {
+  border: dotted black 1px;
+  height: 35px;
+  width: 7%;
+  display: inline-block;
+  margin: .1em;
+
+}
+
+#footerDiv {
+  border: dotted black 1px;
+  overflow: auto;
+  width: 98.1%;
+  display: block;
+  height: 200px;
+  margin-top: 20px;
+  padding-left: 20px;
+}
+
+#scoot {
+
+  margin-right: 10  px;
+}
+
+.col-6 {
+  border: dotted black 1px;
+  width: 48%;
+  display: inline-block;
+  height: 150px;
+
+ /* height: 150px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+  margin-bottom: 1em;
+*/
+}
+
+.center {
+  text-align: center;
+}
+
+#container {
+  overflow: auto;
+  width: 100%;
+}

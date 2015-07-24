@@ -1,0 +1,1 @@
+NOTES!!!  I didn't realize that I should be using classes rather then ids. I would really like to try to find teh time to go back and rework/refactor this. Hopefully i'll have time this weekend to do this but at least this is basic start for you to see that I've been working on it.
